@@ -1,30 +1,17 @@
-# This is a large heading
+# Angela Renggli
 
-## This is a smaller heading
+## About
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm quite new to all of this and most of the time I have no idea, what I'm doing... I'm a teacher for History and German in Switzerland and coding is something I really like to keep my mind busy.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+## Reading
 
-Here is `some code` in the middle of a sentence
+Asking me about my favourite book is like asking an astronomer about her favourite star... But here are some I really like:
+- Dresden Files (the whole series)
+- The name of the wind by Patrick Rothfuss
+- Emelan by Tamora Pierce
 
-```
-This is
-a block
-of code
-```
+## Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.02/karl-moustache.jpg)
-
-nano README.md
+I have a [website](www.angela.renggli.ch) where you can find everything you need.
